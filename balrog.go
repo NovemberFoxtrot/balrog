@@ -5,5 +5,5 @@ import {
 }
 
 func main () {
-  fmt.Println("Happy V-Day!")
+  fmt.Println("Happy Snow Day!")
 }
