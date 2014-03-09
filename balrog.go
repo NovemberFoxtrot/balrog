@@ -6,4 +6,5 @@ import {
 
 func main () {
   fmt.Println("Noooooooooo!")
+  fmt.Println("Foooooooood!")
 }
